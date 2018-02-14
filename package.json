@@ -1,6 +1,6 @@
 {
-  "name": "node-web-streams",
-  "version": "0.2.2",
+  "name": "donejs-node-web-streams",
+  "version": "1.0.0",
   "description": "WhatWG web streams and conversion utilities for node.js",
   "main": "index.js",
   "scripts": {
